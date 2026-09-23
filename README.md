@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Geospatial-Intelligence/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Geospatial-Intelligence?style=flat-square&logo=github" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Geospatial-Intelligence/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Geospatial-Intelligence?style=flat-square&logo=github" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Geospatial-Intelligence/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Geospatial-Intelligence?style=flat-square&logo=github" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Geospatial-Intelligence/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Geospatial-Intelligence?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -56,9 +56,9 @@ Below is a detailed comparison of top commercial geospatial intelligence & remot
 
 ## 💻 Open-Source GitHub Projects
 
-Below are top open-source GIS engines, libraries, and web platforms, ordered by **GitHub Star Counts (Descending)**.
+Below are top open-source GIS engines, libraries, and web platforms, ordered by **GitHub Stars_Counts (Descending)**.
 
-| Project 📦 | GitHub Star Count ⭐ | License 📜 | Description & Primary Use Case 🛠️ |
+| Project 📦 | GitHub Stars_Count ⭐ | License 📜 | Description & Primary Use Case 🛠️ |
 | :--- | :--- | :--- | :--- |
 | **[QGIS](https://github.com/qgis/QGIS)** | [<img src="https://img.shields.io/github/stars/qgis/QGIS?style=social&color=white" alt="QGIS Stars"/>](https://github.com/qgis/QGIS/stargazers) | GPL-2.0 | The gold standard open-source desktop GIS. Full spatial processing, cartography layout engine, and thousands of Python plugins. |
 | **[OpenLayers](https://github.com/openlayers/openlayers)** | [<img src="https://img.shields.io/github/stars/openlayers/openlayers?style=social&color=white" alt="OpenLayers Stars"/>](https://github.com/openlayers/openlayers/stargazers) | BSD-2-Clause | High-performance, feature-packed JS web mapping library supporting WMS, WFS, GeoJSON, and vector tile rendering. |
